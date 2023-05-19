@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeliveryService.Data/1.0.0": {
+        "runtime": {
+          "DeliveryService.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryService.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

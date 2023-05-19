@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeliveryService.UI/1.0.0": {
+        "dependencies": {
+          "DeliveryService.Data": "1.0.0",
+          "DeliveryService.Repository": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryService.UI.dll": {}
+        }
+      },
+      "DeliveryService.Data/1.0.0": {
+        "runtime": {
+          "DeliveryService.Data.dll": {}
+        }
+      },
+      "DeliveryService.Repository/1.0.0": {
+        "dependencies": {
+          "DeliveryService.Data": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryService.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryService.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryService.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryService.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

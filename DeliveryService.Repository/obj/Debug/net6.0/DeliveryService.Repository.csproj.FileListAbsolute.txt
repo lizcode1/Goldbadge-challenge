@@ -1,0 +1,15 @@
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\bin\Debug\net6.0\DeliveryService.Repository.deps.json
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\bin\Debug\net6.0\DeliveryService.Repository.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\bin\Debug\net6.0\DeliveryService.Repository.pdb
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\bin\Debug\net6.0\DeliveryService.Data.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\bin\Debug\net6.0\DeliveryService.Data.pdb
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.csproj.AssemblyReference.cache
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.AssemblyInfoInputs.cache
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.AssemblyInfo.cs
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.csproj.CoreCompileInputs.cache
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.csproj.CopyComplete
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\refint\DeliveryService.Repository.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\DeliveryService.Repository.pdb
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Repository\obj\Debug\net6.0\ref\DeliveryService.Repository.dll

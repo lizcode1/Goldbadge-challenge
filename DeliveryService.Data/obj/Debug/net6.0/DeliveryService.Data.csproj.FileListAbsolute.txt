@@ -1,0 +1,12 @@
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\bin\Debug\net6.0\DeliveryService.Data.deps.json
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\bin\Debug\net6.0\DeliveryService.Data.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\bin\Debug\net6.0\DeliveryService.Data.pdb
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.csproj.AssemblyReference.cache
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.AssemblyInfoInputs.cache
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.AssemblyInfo.cs
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.csproj.CoreCompileInputs.cache
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\refint\DeliveryService.Data.dll
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\DeliveryService.Data.pdb
+C:\Elevenfifty_projects\codingfoundation\dotnetProjects\DeliveryServiceApp\DeliveryService.Data\obj\Debug\net6.0\ref\DeliveryService.Data.dll
